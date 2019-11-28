@@ -1,9 +1,8 @@
 package com.example.rsocket.responder.config;
 
-import ca.uhn.fhir.parser.IParser;
+import org.apache.commons.lang3.SerializationUtils;
 import org.hl7.fhir.r4.model.Bundle;
 import org.reactivestreams.Publisher;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.ResolvableType;
 import org.springframework.core.codec.Encoder;
 import org.springframework.core.io.buffer.DataBuffer;
@@ -13,19 +12,13 @@ import org.springframework.stereotype.Component;
 import org.springframework.util.MimeType;
 import reactor.core.publisher.Flux;
 
+import java.io.ByteArrayOutputStream;
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 
 @Component
 public class BundleEncoder implements Encoder<Bundle> {
-
-    private final IParser fhirParser;
-
-    @Autowired
-    public BundleEncoder(IParser fhirParser) {
-        this.fhirParser = fhirParser;
-    }
 
     @Override
     public boolean canEncode(ResolvableType elementType, MimeType mimeType) {
@@ -45,8 +38,14 @@ public class BundleEncoder implements Encoder<Bundle> {
     }
 
     @Override
-    public DataBuffer encodeValue(Bundle value, DataBufferFactory bufferFactory, ResolvableType valueType,
+    public DataBuffer encodeValue(Bundle bundle, DataBufferFactory bufferFactory, ResolvableType valueType,
                                   MimeType mimeType, Map<String, Object> hints) {
-        return bufferFactory.wrap(fhirParser.encodeResourceToString(value).getBytes());
+        return bufferFactory.wrap(serialize(bundle));
+    }
+
+    private byte[] serialize(Bundle bundle) {
+        ByteArrayOutputStream baos = new ByteArrayOutputStream(20480);
+        SerializationUtils.serialize(bundle, baos);
+        return baos.toByteArray();
     }
 }
