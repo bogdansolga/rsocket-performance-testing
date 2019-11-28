@@ -17,7 +17,7 @@ import java.util.stream.Stream;
 @Component
 public abstract class AbstractCommunicationService {
 
-    private static final int NUMBER_OF_FHIR_REQUESTS = 10;
+    private static final int NUMBER_OF_FHIR_REQUESTS = 20;
 
     private final List<Integer> entriesValues = Arrays.asList(100, 200, 400, 800);
 

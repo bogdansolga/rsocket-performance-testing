@@ -29,6 +29,7 @@ public class RSocketConfig {
                                                                  .frameDecoder(PayloadDecoder.ZERO_COPY))
                                .rsocketStrategies(builder.build())
                                .connectTcp(responderHost, responderPort)
-                               .retry();
+                               .retry()
+                               .cache();
     }
 }

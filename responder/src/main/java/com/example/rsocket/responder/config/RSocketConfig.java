@@ -8,7 +8,7 @@ import org.springframework.messaging.rsocket.RSocketStrategies;
 public class RSocketConfig {
 
     @Bean
-    public RSocketStrategies requester(BundleEncoder bundleEncoder, IntegerDecoder integerDecoder) {
+    public RSocketStrategies rSocketStrategies(BundleEncoder bundleEncoder, IntegerDecoder integerDecoder) {
         return RSocketStrategies.builder()
                                 .decoder(integerDecoder)
                                 .encoder(bundleEncoder)

@@ -18,7 +18,7 @@ public class RSocketController {
     }
 
     @MessageMapping("bundle.read")
-    public Mono<String> readBundle(int entries) {
+    public Mono<String> readBundle(Integer entries) {
         return Mono.just(bundleProvider.getBundle(entries));
     }
 
