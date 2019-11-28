@@ -1,0 +1,4325 @@
+{
+  "resourceType": "Bundle",
+  "entry": [
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/a82129cb-37e8-4a60-b55c-92e40a1a0808"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/fbb837d1-889c-4b04-930a-b2f9f2f4938e"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "51c024d4-fb8c-4cd9-91b1-2ee0c20930dc",
+          "lastUpdated": "2019-08-20T09:11:51.620+00:00",
+          "id": "ab8ab792-9978-46fb-91c0-225b38cff6b5"
+        },
+        "id": "1a544669-6eaf-4792-bd46-c4d7634c992e"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/7bf876bc-3160-473b-bcd6-d364b35d05d9"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/9208de58-4180-44f1-ade3-1244181f1263"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "3796a41b-1f3e-46a8-8921-9eefe81ff2fb",
+          "lastUpdated": "2019-08-20T09:12:08.531+00:00",
+          "id": "71fa0abb-c7eb-4901-a7ad-604af81b55c1"
+        },
+        "id": "93335f13-f1ca-41e0-9dae-a0c37f162cd5"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/42410fb6-cc0d-4964-862e-4cee9e934294"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/6efaa55e-43ae-4d04-94cc-d2cb423b5b36"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "55d77c00-2e3e-46d1-8eef-d95e1d008a0c",
+          "lastUpdated": "2019-08-20T09:12:22.068+00:00",
+          "id": "330f84d6-9248-4515-bfb3-db58e56308bb"
+        },
+        "id": "3032cfbd-8558-43a9-97d4-62f1bb11dbba"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/ed070828-8416-475b-ab77-ae290567d400"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/603137f9-a0a2-4a61-9fec-ba181f0214e9"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "b82e5b77-3475-462a-9d5b-061c8417bda0",
+          "lastUpdated": "2019-08-20T09:12:35.921+00:00",
+          "id": "737c5f67-1542-447d-949a-83b2d3150422"
+        },
+        "id": "775ac3f2-09e6-4143-be5c-ac55f4bfd4cc"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/79ca35ac-4307-421d-8baf-530a997e43f6"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/8e156667-8c33-434e-8639-0c35fd6d029c"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "9f0b660b-4573-4c6d-9811-203a74a3ab0b",
+          "lastUpdated": "2019-08-20T09:12:51.437+00:00",
+          "id": "5d8cb6c3-c317-41d2-959f-97e957820142"
+        },
+        "id": "012abda8-9558-431a-bc88-66d21dad7ae4"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/1c53c494-26d6-4707-ae6a-53b7a947601f"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/0df33844-6901-404b-906e-6833d709ac16"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "0f474003-3fbd-44a3-873a-3650e806d7e5",
+          "lastUpdated": "2019-08-20T09:13:35.403+00:00",
+          "id": "00d669de-cc9f-4611-8248-1a7a1848ba66"
+        },
+        "id": "595d8e93-14ea-4d58-a7bf-a06088f684f8"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/d0dfe364-e6ff-49a2-95d7-562356364d6d"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/8f397fe2-19a3-4a7e-97bd-69bc858bea2c"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "3928dbeb-c5df-4d86-a98d-8562b1bcfc16",
+          "lastUpdated": "2019-08-20T09:15:12.470+00:00",
+          "id": "dbc59bec-0576-4546-af6c-bea73ce9d00d"
+        },
+        "id": "bc8ee56f-2d6d-4477-80a3-35dfb718ccdc"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/6ff71ce8-eff0-4f5c-b769-e01c66b01346"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/25783fe7-91ee-4793-a48a-06cbebbfdc35"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "2279431e-8794-4d12-a0a4-68d071f82974",
+          "lastUpdated": "2019-08-20T09:16:23.548+00:00",
+          "id": "1ee23b01-6a81-409e-bcd1-b04834f2673d"
+        },
+        "id": "d1572e5f-5f91-4a93-b205-e877deebac83"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/ff1bb46e-75c9-4c45-abe0-47f7515c0091"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/04d33af8-0afa-45ea-8e1f-379c67ff78a8"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "3831ac83-8846-40ac-972c-cb82331e917e",
+          "lastUpdated": "2019-08-20T09:16:53.193+00:00",
+          "id": "b30bcaad-97b8-40df-ad53-24c2a4c4281c"
+        },
+        "id": "9bebc269-ef6c-4c81-80dc-85db0782ba87"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/38a174e3-d0d9-4214-a490-3e71dc694a05"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/37cb3fb7-8292-4fcc-bde6-63159db270de"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "d83cca93-6673-4d53-bbad-062b5a2edbf7",
+          "lastUpdated": "2019-08-20T10:29:01.931+00:00",
+          "id": "ff499e5f-9ab5-40f1-9d7d-d04e40cd22c3"
+        },
+        "id": "627c1e9d-3ce9-47db-ad1e-9a1a35557ebd"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/ed358f97-ec29-45ae-bf76-26543f4ac210"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/459fde59-b012-4019-af4a-b51bbad3de18"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "88bd59bf-8eba-4a9b-83ca-b8c8de1d83fa",
+          "lastUpdated": "2019-08-20T10:29:27.148+00:00",
+          "id": "7b61414c-fcb3-42d0-ba1b-76ffa39e528f"
+        },
+        "id": "b4a68c38-9ce0-4c9f-9c68-ca73e72c38f1"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/81012a96-e450-41af-8575-e789376f18f8"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/dd9d785d-5ad0-4f57-a9d3-e76d9dca9505"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "a618160d-6dea-4f40-9d6f-b05a9ae026b6",
+          "lastUpdated": "2019-08-20T10:29:41.109+00:00",
+          "id": "cfa8bf07-ab34-4877-b781-ef726d7b4f05"
+        },
+        "id": "958d0578-6614-454c-9ce7-6d17b65e3af3"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/9e804f2a-a41f-4ec2-b82b-a6f35c17110a"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/8d787321-4a18-4671-80b9-06a2db0e6520"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "7cee5756-ae88-43c7-b1dc-bea7db3a5e54",
+          "lastUpdated": "2019-08-20T10:29:56.789+00:00",
+          "id": "3a85a3a7-ff25-4109-925c-2c23a4ff6fb9"
+        },
+        "id": "9239e7fc-ff86-4dc2-b122-ed73f2611450"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/c79ac72d-69d3-4211-ac1c-412e705334a0"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/f5f91b1e-768e-44fc-b411-45851b05ed44"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "33952600-5e3a-4554-a458-942b15fed804",
+          "lastUpdated": "2019-08-20T10:30:14.995+00:00",
+          "id": "06818adb-dd3b-4051-80fe-6b284059f663"
+        },
+        "id": "439fa609-c01b-443e-89be-a8ad4a17795d"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/8a5128a0-bc62-48c5-8139-fd0d373a77c0"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/387091a4-4dd7-4484-8de4-b4838434156f"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "a1641661-160f-4bb8-b578-153ad0fd8386",
+          "lastUpdated": "2019-08-20T10:30:32.349+00:00",
+          "id": "624611bd-8cd5-4b94-8753-526cbb54e2b3"
+        },
+        "id": "bbd67423-64d1-4eb2-bd24-a6cd363e86b7"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/509d902d-6210-4753-b981-dbeb7084a293"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/bc07d16d-6b88-461f-82f8-40a96008b7fa"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "09928707-5af6-4074-85f3-da97a3275866",
+          "lastUpdated": "2019-08-20T10:30:46.002+00:00",
+          "id": "187139d5-25a6-4245-9947-0c31698c85d1"
+        },
+        "id": "f15318f4-a0f3-44b8-ae0d-c23c58820d4a"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/981467d5-6ad8-4314-89a0-256904d1caff"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/9476d7ea-2a61-41ba-9f31-1e951de663f7"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "3e8ec0bd-b091-41ec-bf51-3d7099a00da4",
+          "lastUpdated": "2019-08-20T10:30:59.178+00:00",
+          "id": "cd934bbd-a2f7-4a5e-90c2-265ff25af1ca"
+        },
+        "id": "ac1c5c6c-1de5-4283-af07-b673358cb528"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/8828b9dd-fcce-4844-a7ae-2ea3ff1d7595"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/90febf5e-b89c-4e05-a9ee-1a8782aecf93"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "b66d47a3-b5ac-4bb4-9d68-3f2e52a79be4",
+          "lastUpdated": "2019-08-20T10:31:14.504+00:00",
+          "id": "d31bec5f-0e74-4cbd-9efb-bd5f347b9e17"
+        },
+        "id": "0d660aaf-7935-4237-89f4-1544ea2cf196"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/c21a4d30-724f-4f7e-91a8-e75322b2e411"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/9124d922-9966-430c-b5eb-28ac803b1db5"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "cec19b85-231b-48e2-b87e-fbb896eb8ce2",
+          "lastUpdated": "2019-08-20T10:31:27.433+00:00",
+          "id": "dcd85fa0-4e69-49a1-8f3f-78baf35b203a"
+        },
+        "id": "a2b82af1-5d60-490c-8251-e8d5f9d42203"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/3574a084-8a6a-4976-9552-5988e97411db"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/be3c85c9-acec-4a35-8996-e97db9f0721b"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "2c0fb329-8023-4e50-815d-0b62b8118350",
+          "lastUpdated": "2019-08-20T10:31:49.216+00:00",
+          "id": "c37de2bd-d3c3-47be-a586-e12aae2720f3"
+        },
+        "id": "70d211bb-4e0a-4f7e-b9d4-a02f6dc7b1c4"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/336a6faf-a054-4648-8242-9a2dd7c3a71d"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/31d202c5-4d22-4951-b56a-452baa21dfde"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "a4103b56-5283-4b3a-97ef-e969b1a8dcda",
+          "lastUpdated": "2019-08-20T10:32:02.615+00:00",
+          "id": "2e15d0a7-6d60-4087-9430-9bf04b38e872"
+        },
+        "id": "34caa679-82da-4404-9944-2b505a3b5f18"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/875f499c-1ffc-4e6d-8a51-2955def54b50"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/9f84a836-ec0b-4957-9c86-3f3e9afea654"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "6a805317-0645-4c13-a338-f99a1859d654",
+          "lastUpdated": "2019-08-20T10:32:21.048+00:00",
+          "id": "34c75116-46ad-42de-97ef-51134946d2ed"
+        },
+        "id": "4d48ae4c-bc3a-4bd1-b04a-dbcfd26bc6e0"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/87458ac9-8cf2-45c7-ad4a-fa72f40998f6"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/671b51aa-f436-437b-a5b1-35f1faea5b2e"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "2e13acb9-cf5c-487d-b883-0c63846a1c79",
+          "lastUpdated": "2019-08-20T10:32:32.040+00:00",
+          "id": "1f01608f-f2e3-4634-9afc-bcc747502095"
+        },
+        "id": "6f098de8-1c1f-46af-ae2c-fbdedb3947b4"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/4b12c075-f179-427e-8b7c-bb21da6065d9"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/937c6536-07d2-4782-9d33-ca00645a25d0"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "11ad2bea-aebe-4a44-8980-3f8d585a034d",
+          "lastUpdated": "2019-08-20T10:32:51.389+00:00",
+          "id": "2a8a4fcb-2f54-4982-b766-79c7ad27d37b"
+        },
+        "id": "ee907301-95f7-4fa2-a6ef-06779a7bb02e"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/57063ae8-2492-456e-bd48-92fde3f08305"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/c8bfcaac-67e8-4b00-838b-9d8af8a0ccc2"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "80e5ace3-bfd8-4cf7-9528-276fa079725c",
+          "lastUpdated": "2019-08-20T10:33:09.140+00:00",
+          "id": "41731f0c-049c-47d8-9e63-704126073bd2"
+        },
+        "id": "2b8d48d1-8c94-4501-a11f-6dd16a5b80c3"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/27da6d30-e825-4c5a-9cf5-e003fd41cbf8"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/a288bf94-fe62-4820-91b0-3555b2729dd1"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "c6a684fb-5572-4442-a8b0-e967f2b82497",
+          "lastUpdated": "2019-08-20T10:33:47.126+00:00",
+          "id": "afb2f8b4-1f3e-44e4-b281-204b60b33684"
+        },
+        "id": "c0f1fa77-13a5-480b-8e7a-1d5c422a0e38"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/ff887700-ffa3-4c88-8e53-23c94d7fedb5"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/5fbf741b-97b4-4386-8218-7a23a8ef3b4d"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "f1d7a71e-f360-456d-8dc2-a72d85019eed",
+          "lastUpdated": "2019-08-20T10:33:58.936+00:00",
+          "id": "cce0aa68-d9d0-4155-896a-9f1358b12a22"
+        },
+        "id": "5360243e-17bf-45e7-8ef6-5fb97a7aadab"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/05a1f8ae-9db2-4acc-af11-4749d79daa2e"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/057dd219-fe57-4fc7-8315-283ae5312ac0"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "6889abf5-b455-41a5-b689-3b1f2f9d664d",
+          "lastUpdated": "2019-08-20T10:34:10.698+00:00",
+          "id": "1d3f69cc-b757-4704-8b6d-2344a192c97f"
+        },
+        "id": "847c6676-9d56-4dac-98ae-762bf9c3c039"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/e661bea6-05bc-4e07-bf1f-9d25a1797f77"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/daf9c535-3ff6-4795-93ab-85e94b9616b3"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "cd2d3d78-4903-4e8b-8eac-12e22679c89b",
+          "lastUpdated": "2019-08-20T10:34:27.963+00:00",
+          "id": "b8ec52bc-f4da-452f-b063-685defb42650"
+        },
+        "id": "e4a0b81b-7424-4083-97c6-994570c826c8"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/45ce2445-9041-4bba-ae93-599c017e03ff"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/f70db651-5cfe-480f-9d75-75155f873125"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "16b8bc90-0b31-4c40-abc0-0d4d704e9d8d",
+          "lastUpdated": "2019-08-20T10:34:42.439+00:00",
+          "id": "4c58a4c3-359c-4977-a6a4-884a401911f0"
+        },
+        "id": "3d3abc3c-addf-41ab-b3ac-577cc15e72f3"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/dbc1196c-5195-4bfe-b81e-dd1f8dda2115"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/8968ab3e-37a8-48d8-b554-08253a3cb0b3"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "b7810a63-fd4d-44e5-92c9-4a13065fed8a",
+          "lastUpdated": "2019-08-20T10:35:15.869+00:00",
+          "id": "6ef690b9-db67-4203-b0e2-77715ad082e8"
+        },
+        "id": "7a5dac85-74b5-461c-8934-8c140844b0ae"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/a2051d9e-6d93-4f74-abde-1f6c95945021"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/c5fd1933-ff6c-4f1a-899c-d1214319c0aa"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "7951899c-93fd-4e7c-a697-cd8a79ec3ae6",
+          "lastUpdated": "2019-08-20T10:35:36.192+00:00",
+          "id": "4f2f7772-fdf4-41f2-854f-1c9043855c6f"
+        },
+        "id": "d84418f2-fd36-4b46-9f0d-aba64f5382ac"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/7ed5cdca-0d59-47e0-a9da-3aea6c1ab682"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/4ddedc72-aede-40fc-b69c-5c0ea716f75b"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "1e8fd539-040c-4081-82ef-c415540d74fe",
+          "lastUpdated": "2019-08-20T10:35:53.312+00:00",
+          "id": "460d9054-c883-4677-8fcc-bd6f2b2af748"
+        },
+        "id": "f5f5ad57-33c9-4348-a14c-880187cdf3a5"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/5fd8f997-7250-4815-86cf-72a5235609ae"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/1b1d9fa8-423e-4f55-99a6-ed52ac258621"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "43fdfe24-7436-4a19-b09b-8aa0bacbab63",
+          "lastUpdated": "2019-08-20T10:36:08.476+00:00",
+          "id": "bfe9991c-1c67-4c31-99f1-a402d4b91718"
+        },
+        "id": "12401995-66d2-4754-8f8b-856c58271ed1"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/e704b92e-92d8-4479-b3b5-5867cf02faec"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/d71dc723-c6f4-4cde-8b18-6080a089413e"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "42b58734-f2b0-4294-a1ed-247860920e37",
+          "lastUpdated": "2019-08-20T10:36:25.236+00:00",
+          "id": "05c83e59-bc7b-446b-af53-efd35f58ee97"
+        },
+        "id": "6aa81b94-93a4-41be-8c02-478a35ad5f1a"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/a2cb59a5-af66-44d5-aee1-ea3ed5b71466"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/e381e3a8-b840-4979-9365-2f5ebf517b28"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "9c2da67f-bd0d-426e-82e1-f7a7a7255987",
+          "lastUpdated": "2019-08-20T10:36:37.705+00:00",
+          "id": "13d957af-3abf-4fcd-9c4a-3eb103841239"
+        },
+        "id": "35745e7c-af3d-462f-8098-953f77e64a5d"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/3e282d45-5abd-4322-be0f-41c3ecb9bb62"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/016dc2c8-35a0-4f60-a69c-d7b092dc4711"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "75cf2c1d-f37c-424d-b125-1b58439baaa8",
+          "lastUpdated": "2019-08-20T10:36:50.213+00:00",
+          "id": "5ae7157e-adbc-4691-8fdf-4fb474ab61c7"
+        },
+        "id": "5edd3294-b84d-4ae2-b498-3513412d6417"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/8446c286-74a6-42d9-82b7-eede7a5febf2"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/f2c87d50-833c-45b5-9153-7a004b53f079"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "5bc985f9-383b-4790-97fb-0b9823f11f45",
+          "lastUpdated": "2019-08-20T10:37:02.192+00:00",
+          "id": "41fa7d09-d0e2-4561-9abb-dd7aa23418b1"
+        },
+        "id": "74467c98-44f4-4f69-8861-dab4e580295a"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/49f7ebf4-5bad-487f-932e-208ff9f7f37f"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/24282b72-1689-4583-afe6-dd6d399401ec"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "469def8a-bee0-4dc6-8c08-305b4200aacf",
+          "lastUpdated": "2019-08-20T10:37:15.975+00:00",
+          "id": "42ff7181-c69c-4226-9f97-2ec6005cd4f7"
+        },
+        "id": "fd76faf0-9197-4784-a859-b55a129928a4"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/484c9c4b-54e5-44c6-bcbe-09a6bab63523"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/a3a92442-9442-4f8d-ae43-a8e098dd5008"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "deeaab39-d8fc-4d65-8835-ef763bdf49a0",
+          "lastUpdated": "2019-08-20T10:37:29.666+00:00",
+          "id": "45555cc9-0b16-420a-96c8-fdaedc99d4b3"
+        },
+        "id": "39ff9499-905e-4153-b297-b9669e26f7ad"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/6b48cf6b-8cc2-4376-8034-b285825b8d91"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/18e3330a-78bb-48b1-8f5b-0aedda91e2f6"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "88f02ee4-957c-46c5-9081-e08b366a4f9c",
+          "lastUpdated": "2019-08-20T10:37:42.897+00:00",
+          "id": "6a999f9e-7ffe-4a2b-9cf7-f44a702f47e8"
+        },
+        "id": "81a48d97-f146-42e1-ba9a-fb4cef13a7ec"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/27546992-eeba-4a3f-a059-cc7c259bcef1"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/26dbc665-ddcd-45bc-9258-f713801d5f73"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "e303bf91-fe7c-4186-8b31-dec2f11c3fc2",
+          "lastUpdated": "2019-08-20T10:37:54.345+00:00",
+          "id": "7cd37f9a-7685-4673-93fa-7fb7315ff560"
+        },
+        "id": "d5d32b43-6fa8-425b-9b18-47ddac5f7e98"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/da3a121b-3022-4c0b-9349-aef516f06210"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/1c254afa-04de-4a56-9ced-c579b9c6baea"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "89ecff94-d174-418c-b285-0e20a85b4b87",
+          "lastUpdated": "2019-08-20T10:38:08.334+00:00",
+          "id": "ef91860f-26d8-4287-bf13-a211521f37b7"
+        },
+        "id": "dad66b52-791b-43e5-82b1-42c627dd659d"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/fed2711d-4622-49da-8354-856ad00c08fb"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/0b4a87fc-b127-48c3-976d-535ca9c8fe58"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "bd33cb9a-892f-4081-b69c-f8b380810ba3",
+          "lastUpdated": "2019-08-20T10:38:20.471+00:00",
+          "id": "0fc448fb-eb11-43c8-aa5d-75227ab9e7a4"
+        },
+        "id": "2a0d25b9-145f-47c0-a537-219b46353349"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/0d2b78af-bb8f-41a8-aaf1-51c2c8743146"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/38776beb-f8d5-4add-8c54-6af3f210271f"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "aced2e50-c38f-4cb0-93de-2a9cb8e21a8d",
+          "lastUpdated": "2019-08-20T10:38:36.253+00:00",
+          "id": "f37ddc32-4138-45ff-86fe-23919f07b866"
+        },
+        "id": "2bd4039a-67da-4d3c-95b7-7374100933a7"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/619d1896-8958-4fad-8302-1d06f51b59e2"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/ab12ce70-f6ca-44db-b341-39c3f091c972"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "81ad8a0b-facf-4a25-a77d-568e212ba265",
+          "lastUpdated": "2019-08-20T10:38:48.931+00:00",
+          "id": "91911047-8c5a-43a9-a101-c54e67caf203"
+        },
+        "id": "b6f71377-c620-47a4-8878-0bfe070836bc"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/f7a26418-f0c0-452d-92db-a94f779927fb"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/789952c2-001a-45ea-81c0-95f37f162bee"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "a021782d-3d58-4e5f-898c-d539459ad2ea",
+          "lastUpdated": "2019-08-20T10:39:01.666+00:00",
+          "id": "24040e14-ae4c-4c8d-a0b7-1af5082853b4"
+        },
+        "id": "9b69b6ef-9149-4397-9904-e22b778483c3"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/a1435846-a662-4f0b-8299-6e18d2e5b37b"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/1b5f70c9-c161-434d-8700-9b31b2bd9532"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "6bbd7b7e-9ba7-4b3c-a494-4a3e00a4de0f",
+          "lastUpdated": "2019-08-20T10:39:13.094+00:00",
+          "id": "ba1a4a35-54f9-41f8-83da-cc39c8e3b82a"
+        },
+        "id": "f2f487fc-0bc6-4b7d-9862-f3a633bd2fe5"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/3141f92c-a519-4b7d-8aca-3bc63626a9ac"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/2ebf91d1-72ad-46dd-bde1-d34afcb9ef0c"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "b723831d-ff8e-4ca4-8126-c2a187f8f747",
+          "lastUpdated": "2019-08-20T10:39:29.129+00:00",
+          "id": "16253809-e183-46a4-acf5-8bf18d315bac"
+        },
+        "id": "b577cebd-365e-42f3-b837-edcba727bcde"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/4c17544a-9adf-4867-b5bb-1765b28ec2d0"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/6bd4e04a-4863-4eb6-89a5-ca8a4b89d247"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "17e343ff-8a5c-428c-91b7-b7b04b9da73f",
+          "lastUpdated": "2019-08-20T10:39:41.742+00:00",
+          "id": "4550f13d-21f5-4d39-87da-dd4e999e982a"
+        },
+        "id": "1ef04a21-a220-4c69-a445-a9594e0f952f"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/366c9cf8-dc14-490b-ab22-87825325e088"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/8c46af88-a5cb-4ffd-84b8-39f1b09ad475"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "d0f84271-2077-4ce7-a906-3d4b6833b458",
+          "lastUpdated": "2019-08-20T10:39:55.600+00:00",
+          "id": "2735c614-7fb9-4109-b909-48e7de3aaffb"
+        },
+        "id": "f9c1d6ae-abc4-4d8d-988b-b29298954418"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/e6606c7d-91cc-410b-803d-7125c9f58327"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/55434066-0727-4257-b4cd-31c580056cfa"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "0b5f3ef2-b65c-4cb8-8695-a788cb4a58be",
+          "lastUpdated": "2019-08-20T10:40:09.931+00:00",
+          "id": "60b830ca-beb1-4b5c-92c4-0a88455f0baf"
+        },
+        "id": "a5052aab-0212-4ab6-890f-ae846b8604ce"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/d84236d0-2727-4a00-bd57-de7b09702b77"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/6bba2d94-beb3-4954-b56e-d256ea625f40"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "a386c27e-db46-4895-8e96-1f2edc47a680",
+          "lastUpdated": "2019-08-20T10:40:22.969+00:00",
+          "id": "218b9c81-21ec-47af-ab1c-69ead1277bdd"
+        },
+        "id": "3fa91a83-6644-401d-8a6e-2acf5c105bf4"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/31daa40d-9ad4-49be-ad88-dec2963dbc29"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/4f8c5ee9-53b1-4f65-b6c9-b1d849221d6d"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "04e13106-7244-4f9b-b7a9-ae1c3c3e85dd",
+          "lastUpdated": "2019-08-20T10:40:35.595+00:00",
+          "id": "766c44b4-fc63-4768-8ddf-3de0748a1e70"
+        },
+        "id": "3a62778d-7b40-462a-98f4-d96470894b8a"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/558ffb9a-cc56-4a16-8224-70c2f0a522ee"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/b6938b70-a7c7-4d92-b5a8-abe6ca0a1431"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "204fccaa-6620-4c2d-bba2-1278852dbaed",
+          "lastUpdated": "2019-08-20T10:40:47.070+00:00",
+          "id": "c1a981fe-7f19-4ca9-b6dc-2ee1ec77c653"
+        },
+        "id": "fd7f68a2-ebfe-47ca-8999-3f63c60f54b9"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/5edd31eb-190f-478f-b7a8-98e381dbaffd"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/b7e086c0-52e5-4cf6-821d-782e8af7571e"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "b70c46ac-e147-485b-b717-155e693f7846",
+          "lastUpdated": "2019-08-20T10:40:59.562+00:00",
+          "id": "b1ca8d06-ea8f-4451-a8d1-6c5a55db6ac7"
+        },
+        "id": "552db242-6621-4c75-b220-16e1dc42d18e"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/7c57fa6d-c87a-4490-9f02-99f3eea5f8e7"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/5f705eef-0493-414f-bdd7-bf27a0b1c9a9"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "f12cc445-ba38-46c1-acaa-7520fd63f361",
+          "lastUpdated": "2019-08-20T10:41:15.375+00:00",
+          "id": "c8c26812-5a49-4630-99ab-7513fcf8ea3f"
+        },
+        "id": "8299f4f5-b326-404e-a461-7f15bf543a4f"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/12a881b3-0f83-43d4-a77f-57c57f767a86"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/a8ef4548-7d51-4289-9560-f513c4a1d4da"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "765d955b-b0da-4dee-87a4-b3288cb11c1c",
+          "lastUpdated": "2019-08-20T10:41:29.099+00:00",
+          "id": "c2e7f02a-cf21-45a1-b852-6eb7bdbe8d46"
+        },
+        "id": "ecb3ee71-a539-4e7c-a47f-55f94615a2be"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/d98d004d-567a-41dd-bb57-14eb6c778ca5"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/4bd009b3-20fc-4443-a286-c56e39207070"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "b1d36501-c582-4582-a3f4-dd98ca89d322",
+          "lastUpdated": "2019-08-20T10:41:43.548+00:00",
+          "id": "a42d9338-ca23-405c-9587-0010c53fdb9c"
+        },
+        "id": "cd1510ec-8fcc-4da4-9d02-d3fe03f7e786"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/c8b84f10-6d16-4949-ad92-49f9dcf800c2"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/4f7d704d-11d0-46e1-94d6-1efd47bbeae2"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "689206b5-5aa4-42b7-b5c0-805032e85312",
+          "lastUpdated": "2019-08-20T10:41:57.161+00:00",
+          "id": "8feb4143-7cfe-486d-86cb-8ab3a5bcf37d"
+        },
+        "id": "f77c575e-eb45-40fa-8504-8018b738a5e6"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/4f549ba4-76c8-46fc-af0a-8cf6c421c7e7"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/170172f7-e155-4c13-b876-7fa5da19839b"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "0eed783c-e9a7-4afa-b29f-696409f27cf2",
+          "lastUpdated": "2019-08-20T10:42:08.835+00:00",
+          "id": "ce8fc479-5a99-4950-9fdb-8e5f95c35bbb"
+        },
+        "id": "7e534efb-b4b4-453a-9b5e-a002cb03bf62"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/73a3ba15-f097-4a48-9753-401276571da4"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/4255a4df-b149-4111-ae23-3db6bdf94393"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "dd0e9969-0fe5-432c-8c95-d68007babefe",
+          "lastUpdated": "2019-08-20T10:42:22.075+00:00",
+          "id": "3f673c49-c9bc-48b5-b451-e2c17b9e3ef6"
+        },
+        "id": "873451ac-802f-4e1c-af8a-9d5e51873083"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/05da5938-ff1b-413d-884f-b15c0922e78c"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/3c91588c-fa3b-4338-95aa-12b819bbe12c"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "9e173809-ae53-4521-a537-5e9585b5f14d",
+          "lastUpdated": "2019-08-20T10:43:18.105+00:00",
+          "id": "63084ec2-49e2-42b0-9d5f-30c6d2c82512"
+        },
+        "id": "757d011c-2368-468b-b988-f2ebcc773449"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/d7a7109f-855f-4ad9-960f-94c1f1f8eeb3"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/376a4def-e74e-40cb-a906-52ff3f74ad22"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "b77f34b6-0527-4a3b-94cf-485cf84f2c80",
+          "lastUpdated": "2019-08-20T10:43:33.032+00:00",
+          "id": "34c7f874-25e9-4f79-b0ed-ff93ccfa0e29"
+        },
+        "id": "0de5bc6b-2ba5-4f6f-92c8-a6c145fbccd3"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/63f759e2-e728-4939-9ebe-226e80173e72"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/45e6f94a-182c-4c1f-a52b-969ff4d59173"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "3976a107-6a9b-46e2-b312-fcb6fcb458a1",
+          "lastUpdated": "2019-08-20T10:43:46.068+00:00",
+          "id": "6b83aa67-a019-4f32-85cb-71a1778599e4"
+        },
+        "id": "a8171357-e240-4a98-91cc-ccba3cc73ab9"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/ec8957dc-7a20-4014-8661-a28f01677215"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/7105f4da-e9ef-417a-b790-bd0f19f10ee0"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "e815698b-ce56-424e-a2f3-bcc24b94a4f5",
+          "lastUpdated": "2019-08-20T10:43:56.526+00:00",
+          "id": "32194a55-c11e-4ea4-ad1f-e8faaf3786dd"
+        },
+        "id": "8f661de8-dfed-4d97-aa8f-8a5087b9e597"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/bfb745bd-cc77-4221-9f5d-dbab528aef8c"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/6e75ad70-341f-4142-8a4e-3be898717f00"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "197d6e9b-1161-4c8c-aad8-996811e661ea",
+          "lastUpdated": "2019-08-20T10:44:07.893+00:00",
+          "id": "d4e00523-ad80-421b-bc4f-09ac5c33a3d3"
+        },
+        "id": "301e9949-dd50-489e-b4b2-0218ef74fc6c"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/e731fb5b-34e2-4567-9887-a91aef5a33b4"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/031315b2-06a9-4e72-9741-f53b0ec8164d"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "f810f6fe-5e07-4f42-972e-ef17c808636d",
+          "lastUpdated": "2019-08-20T10:44:38.854+00:00",
+          "id": "5c3bf516-5b63-47c8-baff-a2c02bfc24ef"
+        },
+        "id": "e61d6dd5-8863-4e62-900f-79819dee4635"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/e50effba-9241-4e53-92a3-bba7fca5cb65"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/395b38bf-96da-46e2-9434-1c16e08bf80e"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "aab9605b-787a-4587-a54c-bf1801a9a537",
+          "lastUpdated": "2019-08-20T10:44:56.251+00:00",
+          "id": "9c11d049-d6b1-43b5-adce-2f137ac167d8"
+        },
+        "id": "1beb7f84-5822-42f1-b86e-8ccb92374dee"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/8b7e516d-0f67-4057-9727-21346f11913a"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/9ea4a746-7361-4710-ac88-05ba7d910814"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "fa447fe7-495a-4304-9897-a5796ffd1804",
+          "lastUpdated": "2019-08-20T10:45:08.055+00:00",
+          "id": "3f06127f-a41a-45aa-9e21-0108ccc960ac"
+        },
+        "id": "58d56bbe-e205-47b1-8735-dce7909ec0c7"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/8b140fab-ea6c-4408-a3c7-e3ecdc9abb2a"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/93f47ca5-8c10-4769-ac44-2de43f7c0e40"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "f6dff47c-afdf-47c3-aef7-539c7e064f06",
+          "lastUpdated": "2019-08-20T10:45:22.434+00:00",
+          "id": "61d6fa1f-b7e4-4c91-af8c-0534307d8e0b"
+        },
+        "id": "1558edff-10a7-45ed-bf94-5dccf0f77f69"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/4ddd1f3d-7e46-442d-82dd-d72d31e73970"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/97512eb1-3ec1-4be5-8a0e-f5955daebe32"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "5654b83c-82f5-4d73-a9fd-c0ec83af9563",
+          "lastUpdated": "2019-08-20T10:45:33.724+00:00",
+          "id": "39674a68-1902-4f02-b0f6-95307e182c6a"
+        },
+        "id": "6c19f31d-388e-43dd-98b4-df7c55107f2e"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/065d499d-27f3-4540-a7b0-8e458ad6f7d1"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/3ff2ba79-2515-4b50-9b0f-89b8ad69bf1a"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "ae42c943-1046-425f-bc40-9aec438241e8",
+          "lastUpdated": "2019-08-20T10:45:44.715+00:00",
+          "id": "e7baf0f3-5771-4b69-b4cc-34bd68cc81dc"
+        },
+        "id": "cb93ce83-66be-4178-98b0-1baaa59c8ad9"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/edc353b7-4add-424c-bbed-2f238647aef4"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/c9e4ac61-d2a8-4825-b9c6-28fd7c38044e"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "43e04325-be43-4c2e-8b89-8c47473ffc49",
+          "lastUpdated": "2019-08-20T10:46:16.389+00:00",
+          "id": "05ff8cbc-24ee-4544-9601-f92e3c53d2a1"
+        },
+        "id": "c730d113-2021-443b-bb49-9d3d0d6ec660"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/90fc8715-ad62-4b7a-bfe2-30e6df00795f"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/3507a7ed-d006-434b-96ab-3772ff314a9e"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "0636067e-4e89-4c2c-917e-b1079648799b",
+          "lastUpdated": "2019-08-20T10:46:35.716+00:00",
+          "id": "4918db68-fcf8-4ab4-bca7-0bfab6c8f1f9"
+        },
+        "id": "3830f082-1a49-4955-bee0-62ca7fd1bda2"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/98b47233-f761-4207-80dd-ecbe6a321592"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/acd3cd79-56a2-4801-b90d-2e0922a96e19"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "a2355d79-3f93-4e8b-86ae-9fbdc5aeae77",
+          "lastUpdated": "2019-08-20T10:46:52.491+00:00",
+          "id": "18037090-fd88-4cce-bb70-ebc6b97c3615"
+        },
+        "id": "6ae55702-0b52-42a0-8706-d05ab93ae1d6"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/609b3975-3222-4ac3-9be2-400888a14965"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/be2dc6f2-59c3-4d15-9c08-0c576a5a311c"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "2edc3ae1-f3f7-4b91-9ee4-780cc926f60c",
+          "lastUpdated": "2019-08-20T10:47:08.389+00:00",
+          "id": "1aaaffd6-7ede-4deb-b20a-33f725e5cd23"
+        },
+        "id": "f406e626-e512-4ffe-b5c2-fa3d3f924509"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/537fe3ce-f828-4fbb-b534-e86cd2a52e27"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/0c2de181-3d8e-496a-88cc-e9481e281770"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "e6d84ad9-3671-4617-886f-b265454bfa75",
+          "lastUpdated": "2019-08-20T10:47:22.133+00:00",
+          "id": "93edfa9f-fdf7-4ee2-83a4-0cc56296224f"
+        },
+        "id": "90d9fdc7-5652-4af1-8455-3e138ddf505d"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/b3052ef6-ebe5-4e79-b0df-459252ed4188"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/7719f21f-55b9-4ccb-aa6a-01776ccf2e19"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "a30e3bd9-2b17-44ec-82bf-fc1ba745da32",
+          "lastUpdated": "2019-08-20T10:48:51.891+00:00",
+          "id": "255d4efe-76f9-4d73-8be8-716cdb19a9e3"
+        },
+        "id": "10c5503d-4f23-4eeb-bc1f-68cdc0013509"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/321c9597-7002-47b9-9251-9eeba48ef91b"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/8b08c672-6b58-40ad-9b0f-672d19abecf1"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "87b42c63-9106-4e11-ae84-204ab6b0eb00",
+          "lastUpdated": "2019-08-20T10:49:13.553+00:00",
+          "id": "1f82c2f4-a5ce-4314-829c-273911c61142"
+        },
+        "id": "db85d6f0-ac4f-41b0-a0a0-a1eaa87c7e15"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/c46ae1c5-8ae2-4a00-a2a1-6c6f0f76d37b"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/05d0d443-d5ce-4fa4-9a7a-44c04ead1427"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "c7ff2144-97dc-4e63-930b-73b6b34380b1",
+          "lastUpdated": "2019-08-20T10:49:31.750+00:00",
+          "id": "4d0ec0c2-3e15-4d48-ae4e-747459d7bdba"
+        },
+        "id": "15701083-f5f0-4ed0-98c0-244291c53225"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/f4ca8a39-750b-4ef4-95d1-5a7e4c84f102"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/c1a3d796-37e1-4e42-af3c-8b013331a440"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "2978e421-2d3f-4131-adfd-a098bff8b628",
+          "lastUpdated": "2019-08-20T10:49:45.571+00:00",
+          "id": "45f26eb1-f21b-4be7-82e9-f4ce43e56ca9"
+        },
+        "id": "6d59ffe0-2c4f-4da4-b541-15592c90e8bf"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/0031ec77-c301-4057-a24a-5c7391e54039"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/7b99d8d2-722e-46fe-be73-90d24e83d316"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "8e5fb74c-c85a-4ff7-9109-a419055b5d0a",
+          "lastUpdated": "2019-08-20T10:50:04.705+00:00",
+          "id": "ab8f9e96-4d42-43ac-80e6-dcd99141f605"
+        },
+        "id": "32a859b8-b173-4964-8902-68ac5808872c"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/88b4b86b-78e7-4f16-a34d-73aa366dd133"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/a81cf91e-10d8-470c-9274-47df13a6dc73"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "8fddfa05-ff9f-4375-86d4-cdd360cd13f1",
+          "lastUpdated": "2019-08-20T10:50:20.020+00:00",
+          "id": "b42f8086-8af8-498d-9a60-bf0eeaae6079"
+        },
+        "id": "ab928dc6-1c26-451f-9afb-d1ee5556e7d9"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/deda3722-3d5a-4e6b-aabb-03407d2d8cd8"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/1d324364-a163-44e8-b134-a4b1e5dacdfb"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "c1b3bc9e-7378-4030-bba8-e6405c88d5ce",
+          "lastUpdated": "2019-08-20T10:50:40.573+00:00",
+          "id": "8e4faac6-8640-482d-8520-d9db07d5546f"
+        },
+        "id": "da9ab612-ba20-460b-a9d4-8219d6bce5db"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/57a6117c-43c1-49e3-9017-94205ec4b029"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/d2b86d64-d400-46fa-91e7-ded1440d2301"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "6677fc07-d29a-4c40-b431-08c0837ec743",
+          "lastUpdated": "2019-08-20T10:50:56.891+00:00",
+          "id": "779790df-96cd-4ad4-be76-e5bc3123e337"
+        },
+        "id": "eab49945-f882-4bed-9e4d-8c21148fce4b"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/aefa1121-dfad-4e43-9d59-d15755e030b4"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/88e98cbf-6aee-4cb4-bc35-3d498e7fa591"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "600c8e34-c703-452d-946a-755adb6c6e6b",
+          "lastUpdated": "2019-08-20T10:51:10.104+00:00",
+          "id": "943f3bb5-b507-4b92-9d17-ba5c658a9c44"
+        },
+        "id": "bbbd0311-8f18-441b-b610-b968e5c72260"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/62969848-5d4e-4668-b757-dbfd1f1e0f47"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/6d73cd6b-e97b-4d7b-86c5-f7033650e571"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "643d6a72-0df5-4fc8-9434-ff471442b112",
+          "lastUpdated": "2019-08-20T10:51:23.527+00:00",
+          "id": "45eeffb7-d062-4c68-9ab7-c4e60ade0941"
+        },
+        "id": "ce0863c9-b0d9-461d-aa1d-1c6d48c82d77"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/51e5ba84-7df5-4f13-b195-e2f8ecd588cf"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/846c76b2-4199-4af9-9765-de468d674e25"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "5ab6f07b-050e-45e8-bb5b-7824d5f5ca2a",
+          "lastUpdated": "2019-08-20T10:51:38.289+00:00",
+          "id": "b414eb9e-e53b-449a-8c18-0cc0d8585dea"
+        },
+        "id": "fd6ca8f0-83c1-4449-b9fd-30d4ad110aa4"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/7a3c1093-7dfe-476d-a4f0-8e4a0fb8c039"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/3ec1e3a4-4045-4806-b90a-521f87d0116f"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "2feec164-8e3f-4e03-a8ff-4ea254301125",
+          "lastUpdated": "2019-08-20T10:51:59.932+00:00",
+          "id": "ad12b9f3-b608-4a24-abfb-7c38e9bbb61c"
+        },
+        "id": "1446c4d6-7c82-4ae8-aa10-ad8328801efc"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/2b10e445-5fe2-4506-9067-e964da04880e"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/411da476-47f4-40f1-9be3-ed3ba1054bb6"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "d42fa20c-44f5-47d8-8af4-6ab3c17ad94b",
+          "lastUpdated": "2019-08-20T10:52:14.985+00:00",
+          "id": "9fe9ed8b-648f-4cdc-9997-ca3c59bb19e8"
+        },
+        "id": "6df0047d-002e-4fe1-b9be-a835d0e0eb75"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/e5324e5d-95dc-4166-bede-77ca119bba86"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/fa464e24-6340-4918-b68d-d1e97fb2b74f"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "d5e514d9-e19e-4800-b78c-b3d4797aad08",
+          "lastUpdated": "2019-08-20T10:52:33.544+00:00",
+          "id": "525af9da-5a53-482b-a3ed-b63ce4ac65c5"
+        },
+        "id": "805569ce-07f8-4c93-bb87-978f8420961e"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/cbb14427-3bf4-494b-9b7d-235aa2808de4"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/da43bb23-2df0-471a-8a8d-83ba0b0b21dc"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "1d92af22-27e4-4645-9d17-d13c9a7979bc",
+          "lastUpdated": "2019-08-20T10:52:49.139+00:00",
+          "id": "4ad8cab5-56ad-45d8-9256-39f448cbeb4c"
+        },
+        "id": "cebe4505-919a-4c3c-93a4-b6e247fa5e2b"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/d2bbd8f8-7269-41a5-922f-60e100f563c5"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/cc889ea1-b6d5-42b1-af76-b6da691b78a3"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "083a6f40-515c-4d80-9b9e-f71919da2811",
+          "lastUpdated": "2019-08-20T10:53:05.344+00:00",
+          "id": "35238661-17ec-440f-b34c-0714acafed9e"
+        },
+        "id": "e48ae83d-fd1b-450a-bcac-496f1d8cc5c9"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/235cf29f-ddf3-45a9-9d60-565836e2dc37"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/7da7b643-2cd2-45f4-b994-86aa37cc1e12"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "086e13c3-e91e-4f90-b68a-bbd907841704",
+          "lastUpdated": "2019-08-20T10:53:39.920+00:00",
+          "id": "0e97f745-dba4-44a5-8155-8afba29db844"
+        },
+        "id": "b41506a2-9402-493e-9325-043da83c4402"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/dd4e297d-5b5f-40ce-8c70-37c789320249"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/cf4e2867-887d-4e78-a76b-ec060ab7f4ba"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "cf045e8d-a66c-4bf5-b143-fce2e47e8484",
+          "lastUpdated": "2019-08-20T10:53:52.711+00:00",
+          "id": "c1d502af-a7d2-4dd4-9a6a-2a06eb58a6c4"
+        },
+        "id": "969767d9-7156-4c7d-ba82-be58787c2d03"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/2705ee5a-3b92-4e47-a78f-3318e704eecb"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/eeddf1bc-4415-4409-be2f-c74ea5327187"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "434cd4a0-b50c-46ea-ae7c-dcf00e8b62b1",
+          "lastUpdated": "2019-08-20T10:54:08.246+00:00",
+          "id": "d08bf1cb-79ac-4b7a-aee3-d675bcff0378"
+        },
+        "id": "d9053063-8913-4a50-a2a3-eb35b87002d7"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/1715df4f-0a4f-4591-8e0b-c24962cd7ddc"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/7221c97a-6f17-497e-87ec-36c959dc94b9"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "74b6e7fd-4110-4765-87f8-494f4aa81fb5",
+          "lastUpdated": "2019-08-20T10:54:19.830+00:00",
+          "id": "9abf1410-3acf-4e61-8f38-25ec66d2fad6"
+        },
+        "id": "de2a4008-bb5e-4003-9fbf-dd6d1409d196"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/fbdb8873-e5ac-4183-b819-c005305848c8"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/87a7b716-bfe0-4b3b-9a93-8868965f4e49"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "30b2f8b3-a7c7-47f6-9835-64d28df3431a",
+          "lastUpdated": "2019-08-20T10:54:34.276+00:00",
+          "id": "377efb47-c667-4727-b543-b9580f11feaa"
+        },
+        "id": "0991d00c-27c2-42bc-938a-ba212877157c"
+      },
+      "search": {
+        "mode": "match"
+      }
+    },
+    {
+      "resource": {
+        "resourceType": "Observation",
+        "subject": {
+          "reference": "Patient/e31f519f-e1dc-420f-ba6e-51da2b9f72a2"
+        },
+        "code": {
+          "text": "Manchester Triage System",
+          "coding": [
+            {
+              "system": "http://snomed.info/sct",
+              "code": "713009001",
+              "display": "Manchester Triage System"
+            }
+          ]
+        },
+        "effectiveDateTime": "2019-04-17T13:30:00.000+00:00",
+        "note": [
+          {
+            "text": "The patient had fever and refused to take any medication."
+          }
+        ],
+        "status": "final",
+        "valueInteger": 3,
+        "encounter": {
+          "reference": "Encounter/7548c2bd-72ad-423b-a6b4-6c54a08abe57"
+        },
+        "performer": [
+          {
+            "reference": "Practitioner/example"
+          }
+        ],
+        "meta": {
+          "versionId": "575a9aeb-b329-47a3-a06b-8b052e3a6774",
+          "lastUpdated": "2019-08-20T10:55:05.950+00:00",
+          "id": "e7d565a0-1230-45c3-bf8c-30a60d21424b"
+        },
+        "id": "ccc92f5f-669a-4c6a-94ce-da3bfa281f07"
+      },
+      "search": {
+        "mode": "match"
+      }
+    }
+  ],
+  "total": 19877,
+  "link": [
+    {
+      "relation": "self",
+      "url": "Observation?value-date=gt1990-01-14&_count=100&_tag%3Anot=preliminary"
+    },
+    {
+      "relation": "first",
+      "url": "Observation?value-date=gt1990-01-14&_tag%3Anot=preliminary&_count=100&_offset=0"
+    },
+    {
+      "relation": "next",
+      "url": "Observation?value-date=gt1990-01-14&_tag%3Anot=preliminary&_count=100&_offset=100"
+    },
+    {
+      "relation": "last",
+      "url": "Observation?value-date=gt1990-01-14&_tag%3Anot=preliminary&_count=100&_offset=19800"
+    }
+  ],
+  "type": "searchset"
+}
